@@ -1,4 +1,9 @@
 *_demo.ipynb
 *.ipynb_checkpoints
-*.txt
+data/
 ON_Model/
+figures/
+*.py
+*.keras
+*.pkl
+*.vscode
